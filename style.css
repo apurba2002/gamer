@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap');
+
+
 .group16 {
     width: 1920px;
     height: 130px;
@@ -42,6 +45,7 @@ body {
     width: 86.041px;
     height: 40px;
     flex-shrink: 0;
+    margin-top: 6px;
 }
 
 .group2 h1 {
@@ -67,6 +71,7 @@ body {
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
+    gap: 32px;
 
 }
 
@@ -78,9 +83,10 @@ body {
     gap: 32px;
     margin-top: 17px;
     margin-bottom: 18px;
+    justify-content: space-between;
 }
 
-.group3 a {
+.group7 a {
     color: #3C354F;
     text-align: center;
     font-family: Work Sans;
@@ -90,6 +96,8 @@ body {
     line-height: normal;
     text-decoration: none;
     text-transform: capitalize;
+    margin-top: 17px;
+    margin-bottom: 18px;
    
 }
 
