@@ -1,0 +1,158 @@
+.group16 {
+    width: 1920px;
+    height: 130px;
+    flex-shrink: 0;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background: #FFF;
+
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+
+}
+
+.group15 {
+    width: 1440px;
+    height: 56px;
+    margin-top: 37px;
+    margin-bottom: 37px;
+
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.group2 {
+    width: 253.041px;
+    height: 53px;
+    flex-shrink: 0;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    display: flex;
+    gap: 20px;
+
+}
+
+.group2 img {
+    width: 86.041px;
+    height: 40px;
+    flex-shrink: 0;
+}
+
+.group2 h1 {
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #0B0223;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.group2 h1::first-letter {
+    color: #FF42A5;
+}
+
+.group7 {
+    width: 505px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.group3 {
+    width: 211px;
+    height: 21px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 32px;
+    margin-top: 17px;
+    margin-bottom: 18px;
+}
+
+.group3 a {
+    color: #3C354F;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+    text-transform: capitalize;
+   
+}
+
+.group6 {
+    width: 262px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    display: flex;
+    gap: 24px;
+  
+
+
+
+
+
+}
+
+.group6 a {
+    color: #3C354F;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    height: auto;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-bottom: 18px;
+    margin-left: 24px;
+    display: block;
+    width: 116px;
+
+}
+
+.group5 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 73.916px;
+    height: 24px;
+    flex-shrink: 0;
+    display: flex;
+
+   gap: 16px;
+
+}
+
+.youtube {
+    width: 33.916px;
+    height: 24px;
+    flex-shrink: 0;
+
+ 
+   
+}
+
+.tiktok {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    object-fit: contain;
+    mix-blend-mode: darken;
+}
