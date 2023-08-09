@@ -174,6 +174,13 @@ body {
 .main {
     display: flex;
     gap: 125px;
+    width: 1920px;
+    margin: 0;
+}
+
+body {
+    width: 1920px;
+    overflow-x: hidden;
 }
 
 .group14 {
@@ -355,4 +362,108 @@ body {
     width: 719.446px;
     height: 681.018px;
     flex-shrink: 0;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+.main2 {
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    width: 1920px;
+    height: 600px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 52px;
+}
+
+.main2 img {
+    width: 868px;
+    height: 489px;
+    flex-shrink: 0;
+    margin-top: 55px;
+    margin-left: 240px;
+}
+
+.group22 {
+    width: 520px;
+    height: 409px;
+    flex-shrink: 0;
+}
+
+.group21 {
+    width: 520px;
+    height: 200px;
+    flex-shrink: 0;
+}
+
+.group21 :first-child {
+    margin: 0;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 95px;
+    margin-bottom: 24px;
+}
+
+.group21 :nth-child(2) {
+    width: 520px;
+    color: #534C64;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0;
+    /* 166.667% */
+}
+
+.group22 button {
+    border-radius: 48px;
+    background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+    padding: 21px 40px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    border: 0;
+    margin-top: 32px;
+    margin-left: 312px;
+    margin-bottom: 24px;
+
+}
+
+.group22 p {
+    width: 520px;
+    color: #534C64;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45px;
+    /* 187.5% */
+    margin: 0;
+}
+
+.group22 :nth-child(4) {
+    color: #534C64;
+    font-family: Work Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45px;
 }
