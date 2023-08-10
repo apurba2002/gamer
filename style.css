@@ -466,6 +466,7 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 45px;
+<<<<<<< HEAD
 }
 
 
@@ -625,4 +626,6 @@ body {
     width: 342px;
     height: 400px;
     flex-shrink: 0;
+=======
+>>>>>>> 06ec00c1f5bbcbfa28adcd27c8018e458e9bdc49
 }
