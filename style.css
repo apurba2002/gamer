@@ -776,7 +776,108 @@ body {
     line-height: 60px;
     /* 125% */
     color: #0B0223;
-   
+
     margin: 0;
 
+}
+
+.r7 {
+    width: 1920px;
+    height: 821px;
+    flex-shrink: 0;
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    margin-top: 120px;
+}
+
+.group33 {
+    width: 680px;
+    height: 581px;
+    flex-shrink: 0;
+    padding-top: 120px;
+    margin-left: 240px;
+}
+
+.group32 {
+    width: 680px;
+    height: 204px;
+    flex-shrink: 0;
+}
+
+.group32 p {
+    width: 426px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    /* 125% */
+    margin: 0;
+
+}
+
+.group32 :nth-child(2) {
+    width: 680px;
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    margin-top: 24px;
+}
+
+.pos p {
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    /* 200% */
+    margin-top: 32px;
+}
+
+.pos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pos :nth-child(2) {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    /* 200% */
+}
+
+.group33 button {
+    padding: 21px 40px;
+    border-radius: 48px;
+    background: #FFF;
+    border: 0;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #F948B2;
+    margin-top: 40px;
+}
+
+.group65 {
+    width: 1013px;
+    height: 821px;
+    flex-shrink: 0;
+    
+    
+}
+.pink{
+    display: flex;
+    justify-content: left;
 }
