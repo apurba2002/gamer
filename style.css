@@ -1087,3 +1087,151 @@ body {
     margin-top: 29px;
     margin-right: 20px;
 }
+
+.group42 {
+    width: 299px;
+    height: 80px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 16px;
+    border-radius: 50px;
+    background: #FFF;
+    border: 2px solid #FFF;
+    box-shadow: 1px 1px 1px rgba(54, 53, 53, 0.301);
+}
+
+.group42:hover {
+    border: 2px solid #F948B2;
+    transition: 1s;
+}
+
+.group42 img {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.group42 p {
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    margin-top: 29px;
+    margin-right: 20px;
+}
+
+
+.group38 {
+    width: 317px;
+    height: 80px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 16px;
+    border-radius: 50px;
+    background: #FFF;
+    border: 2px solid #FFF;
+    box-shadow: 1px 1px 1px rgba(54, 53, 53, 0.301);
+}
+
+.group38:hover {
+    border: 2px solid #F948B2;
+    transition: 1s;
+}
+
+.group38 img {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.group38 p {
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    margin-top: 29px;
+
+}
+
+
+
+.group39 {
+    width: 244px;
+    height: 80px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 16px;
+    border-radius: 50px;
+    background: #FFF;
+    border: 2px solid #FFF;
+    box-shadow: 1px 1px 1px rgba(54, 53, 53, 0.301);
+}
+
+.group39:hover {
+    border: 2px solid #F948B2;
+    transition: 1s;
+}
+
+.group39 img {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.group39 p {
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    margin-top: 29px;
+
+}
+
+.group43 {
+    width: 262px;
+    height: 80px;
+    flex-shrink: 0;
+    display: flex;
+    gap: 16px;
+    border-radius: 50px;
+    background: #FFF;
+    border: 2px solid #FFF;
+    box-shadow: 1px 1px 1px rgba(54, 53, 53, 0.301);
+}
+
+.group43:hover {
+    border: 2px solid #F948B2;
+    transition: 1s;
+}
+
+.group43 img {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.group43 p {
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    margin-top: 29px;
+
+}
+.row2 {
+    display: flex;
+    gap: 39px;
+    margin-top: 28.17px;
+}
